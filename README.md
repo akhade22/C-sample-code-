@@ -1,2 +1,2 @@
-# C-sample-code-
-Basic  C++ sample code with difficult example
+# C-sample-code
+Different C++ basic examples 
